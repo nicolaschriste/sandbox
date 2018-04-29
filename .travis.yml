@@ -5,5 +5,5 @@ language: swift
 install: ./setup.sh
 
 script:
-- bundle exec fastlane build
+- bundle exec fastlane build --verbose
 - bundle exec fastlane dummy

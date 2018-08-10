@@ -4,3 +4,6 @@
 
 /*Class = "UILabel"; text = "How are you ?"; ObjectID = "rOo-af-Kjn";*/
 "rOo-af-Kjn.text" = "Comment vas-tu ?";
+
+/* Class = "UIButton"; normalTitle = "Goodbye"; ObjectID = "54S-MG-Hq3"; */
+"54S-MG-Hq3.normalTitle" = "Goodbye";

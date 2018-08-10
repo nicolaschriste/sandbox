@@ -1,5 +1,5 @@
 
-/* Class = "UIButton"; normalTitle = "Say hello"; ObjectID = "2gA-aH-e2d"; */
+/* Class = "UIButton"; normalTitle = "Say hello"; ObjectID = "2gA-aH-e2d"; Note = "Button to say hello"; */
 "2gA-aH-e2d.normalTitle" = "Say hello";
 
 /* Class = "UIButton"; normalTitle = "Goodbye"; ObjectID = "54S-MG-Hq3"; */

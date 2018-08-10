@@ -22,6 +22,9 @@
                                 <rect key="frame" x="156" y="40" width="62" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Say hello"/>
+                                <attributedString key="userComments">
+                                    <fragment content="Button to say hello"/>
+                                </attributedString>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="How are you ?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rOo-af-Kjn">
                                 <rect key="frame" x="133" y="86" width="108" height="21"/>

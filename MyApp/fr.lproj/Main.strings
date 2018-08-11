@@ -6,5 +6,11 @@
 "rOo-af-Kjn.text" = "Comment vas-tu ?";
 
 /*Class = "UIButton"; normalTitle = "Goodbye"; ObjectID = "54S-MG-Hq3";*/
-/*Fuzzy*/
-"54S-MG-Hq3.normalTitle" = "Au revoir";
+"54S-MG-Hq3.normalTitle" = "Au Revoir";
+
+/*Localizable.strings
+  MyApp
+
+  Created by Nicolas Christe on 10/08/2018.
+  Copyright © 2018 Nicolas Christe. All rights reserved.*/
+"username" = "Nom d'utilisateur";

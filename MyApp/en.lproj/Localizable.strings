@@ -6,3 +6,6 @@
   Copyright © 2018 Nicolas Christe. All rights reserved.
 */
 "username" = "Username";
+
+/* logout */
+"logout" = "Logout";
